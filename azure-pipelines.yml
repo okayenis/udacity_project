@@ -3,13 +3,13 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'myService'
+  azureServiceConnectionId: 'FlaskMLApp'
 
   # Web app name
-  webAppName: 'flaskapp12'
+  webAppName: 'udacityproject2'
 
   # Environment name
-  environmentName: 'flaskapp12'
+  environmentName: 'udacityproject2'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
