@@ -27,6 +27,11 @@ Spread Sheet TBA
 
 ## Instructions
 
+### Architectural Diagram
+
+![image](https://github.com/user-attachments/assets/ffebcb6b-2827-4279-a7cc-ff32e2cece5e)
+
+
 * Python 3.10+ (compatible with 3.8+)
 * make (for running Makefile commands)
 * Git (for version control)
