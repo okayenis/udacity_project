@@ -1,5 +1,7 @@
 # Overview
 
+[![Build Status](https://dev.azure.com/odluser270065/udacity_project/_apis/build/status%2Fokayenis.udacity_project?branchName=main)](https://dev.azure.com/odluser270065/udacity_project/_build/latest?definitionId=2&branchName=main)
+
 <TODO: complete this with an overview of your project>
 
 ## Project Plan
