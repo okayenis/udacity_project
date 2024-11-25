@@ -60,25 +60,29 @@ The script sends data and retrieves the predicted house price based on the model
 ```
 
 * Project running on Azure App Service
-![image](https://github.com/user-attachments/assets/8cf67fc2-5d88-4c65-a3ca-6c542094882d)
+![Screenshot 2024-11-25 at 14 37 47](https://github.com/user-attachments/assets/8158cca9-a606-472a-8036-7289731b1ca1)
 
 * Project cloned into Azure Cloud Shell
-![image](https://github.com/user-attachments/assets/7892c448-0f42-497c-90d0-aaca110ec70a)
+* ![image](https://github.com/user-attachments/assets/7fc9d123-0516-4e95-9dc3-a6d33c937ab3)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
-![image](https://github.com/user-attachments/assets/aed16d5b-b0ae-4bac-8bbd-94311f519ca1)
+![image](https://github.com/user-attachments/assets/2c114ff2-c8f2-4f1c-b69e-fd46bff7a798)
 
 * Output of a test run
-![image](https://github.com/user-attachments/assets/1eb0ce8f-2aa5-4b90-93b4-b7061b3a08a9)
+![image](https://github.com/user-attachments/assets/b20a9d14-d10a-4202-a0c9-d472d88230c0)
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+![image](https://github.com/user-attachments/assets/62be197e-2a51-488e-beca-98fc3f7098de)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
-![image](https://github.com/user-attachments/assets/bab22867-7ea5-4c52-9212-7d15f50fe9bc)
+![image](https://github.com/user-attachments/assets/62ef7c98-b374-44df-8ff6-e4b165070e5c)
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
+![image](https://github.com/user-attachments/assets/1a8a34b3-fe3c-4c4e-8d31-4d84b6626935)
+
+
 The output should look similar to this:
-![image](https://github.com/user-attachments/assets/ab38f4f0-cc2b-4c5b-84cb-20b61f8be4c9)
+
 
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
